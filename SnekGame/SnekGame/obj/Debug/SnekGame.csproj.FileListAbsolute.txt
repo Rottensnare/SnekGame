@@ -1,0 +1,7 @@
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\bin\Debug\SnekGame.exe.config
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\bin\Debug\SnekGame.exe
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\bin\Debug\SnekGame.pdb
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\obj\Debug\SnekGame.csprojAssemblyReference.cache
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\obj\Debug\SnekGame.csproj.CoreCompileInputs.cache
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\obj\Debug\SnekGame.exe
+C:\Users\Rotte\source\repos\SnekGame\SnekGame\obj\Debug\SnekGame.pdb
